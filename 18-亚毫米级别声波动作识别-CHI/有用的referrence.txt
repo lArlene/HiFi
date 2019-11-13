@@ -1,0 +1,37 @@
+1. Electret microphone amplifier - max9814 with auto gain control. https: //www.adafruit.com/product/1713.
+是一个卖麦克风放大器的网站
+2. Lazik, P., Rajagopal, N., Shih, O., Sinopoli, B., and Rowe, A. Alps:A bluetooth and ultrasound platform for mapping and localization. 
+In Proceedings of the 13th ACM conference on embedded networked sensor systems (2015), ACM, pp. 73–84.
+部署和定位对于蓝牙和超声波，主要看超声波
+3. Mao, W., He, J., and Qiu, L. Cat: high-precision acoustic motion tracking. In Proceedings of the 22nd Annual International Conference
+on Mobile Computing and Networking (2016), ACM, pp. 69–81.
+声波动作追踪
+4. Nandakumar, R., Gollakota, S., and Watson, N. Contactless sleep
+apnea detection on smartphones. In Proceedings of the 13th Annual
+International Conference on Mobile Systems, Applications, and Services (2015), ACM, pp. 45–57.
+手机检测
+5.Peng, C., Shen, G., Zhang, Y., Li, Y., and Tan, K. Beepbeep: a high
+accuracy acoustic ranging system using cots mobile devices. In Pro-
+ceedings of the 5th international conference on Embedded networked sensor systems (2007), ACM, pp. 1–14.
+高精度声波定位用手机
+6.Sun, K., Zhao, T., Wang, W., and Xie, L. Vskin: Sensing touch gestures 
+on surfaces of mobile devices using acoustic signals. In Proceedings
+of the 24th Annual International Conference on Mobile Computing and Networking (2018), ACM, pp. 591–605.
+这个佳林姐实现过，重点
+发射信号是 由正弦调制的Zadoff-Chu (ZC) sequence
+7.Wang, W., Liu, A. X., and Sun, K. Device-free gesture tracking using
+acoustic signals. In Proceedings of the 22nd Annual International Con-
+ference on Mobile Computing and Networking (2016), ACM, pp. 82–94.
+8.Xiao, R., Lew, G., Marsanico, J., Hariharan, D., Hudson, S., and
+Harrison, C. Toffee: enabling ad hoc, around-device interaction
+with acoustic time-of-arrival correlation. In Proceedings of the 16th
+international conference on Human-computer interaction with mobile
+devices & services (2014), ACM, pp. 67–76.
+9. Yun, S., Chen, Y.-C., Zheng, H., Qiu, L., and Mao, W. Strata: Fine-
+grained acoustic-based device-free tracking. In Proceedings of the 15th
+Annual International Conference on Mobile Systems, Applications, and
+Services (2017), ACM, pp. 15–28.
+10. Yunting Zhang, Jiliang Wang, W. W. Z. W. Y. L. Vernier: Accurate
+and fast acoustic motion tracking using mobile devices. In INFOCOM
+(2018), IEEE.
+重点看
